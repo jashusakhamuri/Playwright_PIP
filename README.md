@@ -234,8 +234,4 @@ screenshots/
 - Additional test scenarios
 - API automation
 
-## Author
 
-**Kalava Yamini Krishna**
-
-B.Tech - Computer Science and Engineering
